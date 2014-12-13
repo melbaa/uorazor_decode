@@ -16,7 +16,7 @@ a headhunter, participate in alliance wars with hundreds of players, pvm,
 pvp (consensual and nonconsensual), explore dungeons, do quests, manage shops,
 ruin the economy by flooding the server with cheap merchandise, gamble, place
 traps, poison food, have pets, play annoying music forcing hundreds of people
-to turn off their sound etc etc.--
+to turn off their sound etc etc.  
 
 Maintaining your ingame property is quite complex, so there are all kinds of
 helper programs for navigation, storage, maintaing armor sets etc. One of them
